@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+}
+
+div.border {
+  height: 300px;
+  background-color: white;
+  border: 5px solid black;
+  margin: 60px;
+}
+
+div.purplebox {
+  height: 140px;
+  width: 50px;
+  background-color: blueviolet;
+  margin: 130px 0 0 30px;
+  float: left;
+}
+
+div.greenbox {
+  height: 250px;
+  width: 600px;
+  background-color: green;
+  margin: 25px 0 600px 40px;
+  float: left;
+}
+
+div.bluecircle {
+  height: 250px;
+  width: 250px;
+  background-color: lightskyblue;
+  border-radius: 200px;
+  margin: 25px 0px 0 750px;
+}
+
+div.border2 {
+  height: 300px;
+  background-color: white;
+  margin: 0 60px 0 60px;
+  border: 5px dotted black;
+}
+
+div.yellowbox {
+  height: 225px;
+  background-color: bisque;
+  margin: 30px 40px 0 40px;
+  box-shadow: 4px 8px 10px rgb(0, 0, 0);
+}
+
+div.finalbox {
+  height: 350px;
+
+  background-color: white;
+  margin: 50px 300px 100px 300px;
+  border: 5px none black;
+  box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.308);
+}
+
+div.text {
+  font-size: 50px;
+  text-align: center;
+  color: navy;
+  letter-spacing: 20px;
+  padding: 10px;
+}
